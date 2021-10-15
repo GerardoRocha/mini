@@ -1,0 +1,24 @@
+2021-10-15 02:13:27.049 CDT [7541] LOG:  starting PostgreSQL 14.0 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-10-15 02:13:27.050 CDT [7541] LOG:  listening on IPv6 address "::1", port 5432
+2021-10-15 02:13:27.050 CDT [7541] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-10-15 02:13:27.050 CDT [7541] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-10-15 02:13:27.065 CDT [7542] LOG:  database system was shut down at 2021-10-15 02:02:45 CDT
+2021-10-15 02:13:27.070 CDT [7541] LOG:  database system is ready to accept connections
+2021-10-15 02:13:51.557 CDT [7750] FATAL:  role "auctionedge" does not exist
+2021-10-15 02:14:10.770 CDT [7541] LOG:  received fast shutdown request
+2021-10-15 02:14:10.770 CDT [7541] LOG:  aborting any active transactions
+2021-10-15 02:14:10.771 CDT [7541] LOG:  background worker "logical replication launcher" (PID 7548) exited with exit code 1
+2021-10-15 02:14:10.771 CDT [7543] LOG:  shutting down
+2021-10-15 02:14:10.777 CDT [7541] LOG:  database system is shut down
+2021-10-15 02:15:59.256 CDT [8098] LOG:  starting PostgreSQL 14.0 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-10-15 02:15:59.256 CDT [8098] LOG:  listening on IPv6 address "::1", port 5432
+2021-10-15 02:15:59.257 CDT [8098] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-10-15 02:15:59.257 CDT [8098] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-10-15 02:15:59.262 CDT [8099] LOG:  database system was shut down at 2021-10-15 02:14:10 CDT
+2021-10-15 02:15:59.265 CDT [8098] LOG:  database system is ready to accept connections
+2021-10-15 02:17:20.403 CDT [8339] FATAL:  role "auctionedge" does not exist
+2021-10-15 02:17:26.618 CDT [8098] LOG:  received fast shutdown request
+2021-10-15 02:17:26.618 CDT [8098] LOG:  aborting any active transactions
+2021-10-15 02:17:26.619 CDT [8098] LOG:  background worker "logical replication launcher" (PID 8105) exited with exit code 1
+2021-10-15 02:17:26.619 CDT [8100] LOG:  shutting down
+2021-10-15 02:17:26.625 CDT [8098] LOG:  database system is shut down
